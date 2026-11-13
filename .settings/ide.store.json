@@ -1,0 +1,11 @@
+{
+  "board": "NUCLEO-H563ZI",
+  "device": "STM32H563ZIT6",
+  "core": "Cortex-M33",
+  "order": 0,
+  "toolchain": "GCC",
+  "source": {
+    "sourceType": "Empty"
+  },
+  "tz": "TZ-disabled"
+}
