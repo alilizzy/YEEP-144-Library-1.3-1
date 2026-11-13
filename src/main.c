@@ -12,7 +12,6 @@ int main(void){
     // Performs important functions such as initialising the HAL and correctly configuring the system clock
     YEEP144_Init();
     // Configure and start USART3
-	YEEP144_DebugUART_Init();
 
     // While loop that always runs
 	while(1) {
